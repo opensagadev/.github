@@ -10,4 +10,4 @@ Our projects include:
 
 Follow our [progress and browser build](https://opensaga.dev/)
 
-> OpenSaga is an independent educational and preservation project. Game assets and other copyrighted game data are not distributed.
+> OpenSaga is an independent educational and preservation project. Game assets and other copyrighted game data are not distributed. The original game remains the property of its owners.
