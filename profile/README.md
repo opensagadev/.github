@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../logo.svg" alt="opensaga">
+  <img src="../logo.svg?v=c777ab1" alt="opensaga">
 </p>
 
 **opensaga** is an open-source effort to preserve and modernize **LEGO Star Wars: The Complete Saga** through careful reverse engineering.
