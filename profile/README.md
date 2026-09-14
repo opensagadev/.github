@@ -1,4 +1,4 @@
-![](../banner.webp)
+![opensaga](../logo.svg)
 
 **opensaga** is an open-source effort to preserve and modernize **LEGO Star Wars: The Complete Saga** through careful reverse engineering.
 
