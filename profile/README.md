@@ -6,6 +6,7 @@
 
 Our projects include:
 - **[saga](https://github.com/opensagadev/saga)** - a work-in-progress matching decompilation of the Android x86 release of the game with experimental desktop and web builds.
+- **[saga-pc](https://github.com/opensagadev/saga-pc)** - a work-in-progress matching decompilation of the Windows PC release of the game
 - **[saga64](https://github.com/opensagadev/saga64)** - a planned modernized portable build of the game to be completed after a full matching decompilation is achieved.
 
 > **opensaga** is an independent educational and preservation project. Copyrighted game assets are not distributed. The original game remains the property of its owners.
